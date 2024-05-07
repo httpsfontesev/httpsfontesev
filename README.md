@@ -6,7 +6,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fontesev/)
 
-![Eve GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsfontesev&show_icons=true&theme=transparent)
+![Eve GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsfontesev&show_icons=true&theme=transparent) 
+
+ ![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 ## Skills 👩‍💻
 
@@ -20,6 +22,8 @@
 <img align= “center” alt= “PYTHON” src= https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
 </div><br/>
 
+
+ ![Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
  
 Program and control man.
 
