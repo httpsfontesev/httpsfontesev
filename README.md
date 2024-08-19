@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit)](https://discord.com/channels/@me)
 
-[![Instagram](https://www.instagram.com/p/C-3aJt3pixfXc7-GKPQYdPdyXzkAYP_yi2hkiw0/?img_index=1)
+
 
 ![Eve GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsfontesev&show_icons=true&theme=transparent) 
 
